@@ -2,6 +2,9 @@
 .panda-card{
     border: 0;
 }
+.panda-bg-info{
+    background-color:#FCEAE8;
+}
 .panda-card-footer{
     border: 0;
     background-color: white;
@@ -10,7 +13,17 @@
     width: 100px;
 
 }
-.panda-slide .carousel-item{
+.panda-btn-buy-now{
+    background-color: red;
+     color: white;
+     border-radius: 8px;
+     padding: 9px 25px;
+     border: none;
+     margin: 20px;
+    
+ }
+ 
+/* .panda-slide .carousel-item{
     background-color: papayawhip;
     border-radius: 1em;
-}
+} */
